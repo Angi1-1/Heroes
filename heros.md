@@ -5,3 +5,4 @@
 ** Daredevil **
 ** Aquaman **
 ** Wonderwoman **  
+** Linterna Verda **
